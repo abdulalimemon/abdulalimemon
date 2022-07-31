@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/Emon02)
 
 # Hi there, I'm Abdul Alim Emon 👋
-A passionate frontend developer from Bangladesh. I am a creative and ambitious person with the talent to think outside the circle and come up with innovative ideas. I always welcome every project as an opportunity to expand my knowledge and skills to provide my clients an excellent work.
+A passionate Full Stack developer from Bangladesh. I am a creative and ambitious person with the talent to think outside the circle and come up with innovative ideas. I always welcome every project as an opportunity to expand my knowledge and skills to provide my clients an excellent work.
  
 - 🌱 I’m currently learning Next.js 
 - 💬 Ask me about Web Solutions 

@@ -1,11 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emon02&label=Profile%20views&color=0e75b6&style=flat" alt="emon02" /> </p>
 
 # Hi there, I'm Abdul Alim Emon 👋
-A passionate Full Stack developer from Bangladesh. I am a creative and ambitious person with the talent to think outside the circle and come up with innovative ideas. I always welcome every project as an opportunity to expand my knowledge and skills to provide my clients an excellent work.
+A passionate Full Stack developer from Bangladesh. I am a creative and ambitious person with the talent to think outside the circle and develop innovative ideas. I always welcome every project as an opportunity to expand my knowledge and skills to provide my clients with excellent work.
  
 - 🌱 I’m currently learning Next.js 
 - 💬 Ask me about Web Solutions 
-- 📫 How to reach me: abdulalimemon11@gmail.com 
+- 📫 How to reach me: abdulalimemon02@gmail.com 
 
 <br />
 

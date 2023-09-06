@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/Emon02)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emon02&label=Profile%20views&color=0e75b6&style=flat" alt="emon02" /> </p>
 
 # Hi there, I'm Abdul Alim Emon 👋
 A passionate Full Stack developer from Bangladesh. I am a creative and ambitious person with the talent to think outside the circle and come up with innovative ideas. I always welcome every project as an opportunity to expand my knowledge and skills to provide my clients an excellent work.

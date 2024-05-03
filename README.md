@@ -1,12 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulalimemon&label=Profile%20views&color=0e75b6&style=flat" alt="abdulalimemon" /> </p>
 
+
 # Hi there, I'm Abdul Alim Emon 👋
 A passionate Full Stack developer from Bangladesh. I am a creative and ambitious person with the talent to think outside the circle and develop innovative ideas. I always welcome every project as an opportunity to expand my knowledge and skills to provide my clients with excellent work.
  
-- 🌱 I’m currently learning Next.js 
-- 💬 Ask me about Web Solutions 
-- 📫 How to reach me: abdulalimemon02@gmail.com 
-
+- 🌱 Currently delving into Next.js for advanced web development.
+- 💬 Interested in discussing anything related to Web Solutions.
+- 📫 You can reach out to me at abdulalimemon02@gmail.com for collaborations or inquiries.
 <br />
 
 ## Technology That I Know
@@ -30,11 +30,29 @@ A passionate Full Stack developer from Bangladesh. I am a creative and ambitious
 
 </p>
 
+
+
 <br />
 
 ## Connect With Me
 
-[<img src='https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465' alt='facebook' height='35'>](https://www.facebook.com/abdulalimemon02/)  [<img src='https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465' alt='instagram' height='35'>](https://www.instagram.com/emon.web_developer/)  [<img src='https://camo.githubusercontent.com/5d03c86f6a75f7cbe80d135d9162fbf6dc46a31253cf30a8e9bb8279b4d574d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465' alt='twitter' height='35'>](https://twitter.com/abdulalimemon)  [<img src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/abdulalimemon)  [<img src='https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465' alt='linkedin' height='35'>](https://www.linkedin.com/in/abdulalimemon/)  [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='35'>](mailto:abdulalimemon02@gmail.com)
+<div align="left">
+<a href="https://twitter.com/abdulalimemon" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/abdulalimemon02" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/abdulalimemon" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/abdulalimemon" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/emon.web_developer" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>
 
 <br />
 
@@ -55,4 +73,6 @@ A passionate Full Stack developer from Bangladesh. I am a creative and ambitious
 
 
 
-
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=abdulalimemon&&style=flat-square" align="center" />
+</div>

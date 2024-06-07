@@ -7,7 +7,7 @@
 
 
 # Hi there, I'm Abdul Alim Emon 👋
-A passionate Full Stack developer from Bangladesh. I am a creative and ambitious person with the talent to think outside the circle and develop innovative ideas. I always welcome every project as an opportunity to expand my knowledge and skills to provide my clients with excellent work.
+A passionate Front End Web Developer from Bangladesh. I am a creative and ambitious person with the talent to think outside the circle and develop innovative ideas. I always welcome every project as an opportunity to expand my knowledge and skills to provide my clients with excellent work.
  
 - 🌱 Currently delving into Next.js for advanced web development.
 - 💬 Interested in discussing anything related to Web Solutions.
